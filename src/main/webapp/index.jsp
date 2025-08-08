@@ -19,7 +19,7 @@
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!! 2025</p>
       <p>Testing Jenkins</p>
       <p>Fuck CI/CD pipeline</p>
-      <p>Nevermind I freaking love DevOps</p>
+      <p>Nevermind I freaking love DevOpsss</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
       <p>This is the new change that involves Jenkins, Maven, Ansible, Docker, ... in the pipeline! Woohoo!</p>
